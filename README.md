@@ -1,84 +1,75 @@
 <div align=center>
   
-<!-- HEADER -->
-![header](https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=Hi,%20%i'm%20Jewlzcares&section=header&reversal=false&fontAlign=50&animation=twinkling&descAlign=50&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Hi,%20i'm%20Jewlzcares.&desc=I%20learn%20best%20by%20building%20things.&descAlignY=60&descAlign=60&descSize=30&section=header&animation=twinkling&fontAlignY=40)
 
-<!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF00DFFF&center=true&vCenter=true&width=600&lines=Software+Development+Apprentice;Java+%7C+Web+%7C+SQL+%7C+AI+Explorer;Building+cool+things+step+by+step)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I am currently pursuing my apprenticeship as a Software Development Specialist with a focus on application development.
-
-I enjoy building practical applications, learning new technologies, and improving my programming skills step by step.
-
-My main interests are:
-- ☕ Java Development
-- 🌐 Web Applications (HTML, CSS, JavaScript)
-- 🗄 SQL & Databases
-- 🤖 AI Exploration
-
----
-
-## 🛠 Tech Stack
-
-### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+### Software Development Apprentice (Application Development) | Based in Germany 🇩🇪  
 
-### 🏋️ Ironforge – Smart Fitness Tracker
-Java-based application for tracking workouts, progress, and fitness routines.
+I enjoy building practical applications, learning new technologies, and improving my skills step by step.
 
-### 🎓 EducationParcours – Web Application
-Web application focused on structured learning paths and training progress tracking.
+#### 🔍 Focus Areas
+- ☕ Java Development  
+- 🌐 Web Applications (HTML, CSS, JavaScript)  
+- 🗄 SQL & Databases  
+- 🤖 AI Exploration  
 
----
-
-## 🧩 Other Projects
-
-- Memory Game (C#)
-- Caesar Cipher Encryption Tool
-- Time Converter Tool
-- Trading Client (experimental)
-- Stock Manager
-- Various small utility projects during studies & apprenticeship
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jewlzcares&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📊 GitHub Stats
+### Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jewlzcares&show_icons=true&theme=tokyonight)
+#### 🏋️ Ironforge – Smart Fitness Tracker
+Java-based application for workout tracking, progress monitoring and fitness logging.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jewlzcares&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Jewlzcares&theme=tokyonight)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Java concepts
-- Web development improvements
-- Database design & optimization
-- AI concepts & experimentation
+#### 🎓 EducationParcours – Web Application
+Web platform for structured learning paths and training progress tracking.
 
 ---
 
-## 💡 Motto
+### Other Projects
 
-> “Learning by building. One project at a time.”
+- Memory Game (C#)  
+- Caesar Cipher Tool  
+- Time Converter  
+- Trading Client (experimental)  
+- Stock Manager  
+- Various small utility projects  
+
+---
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jewlzcares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jewlzcares&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+
+</div>
+
+---
+
+### Currently Learning
+
+- Advanced Java & architecture concepts  
+- Web development (modern practices)  
+- Database design & optimization  
+- AI fundamentals & experimentation  
+
+---
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
