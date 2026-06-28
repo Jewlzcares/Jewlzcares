@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Hi,%20i'm%20Jewlzcares.&desc=I%20learn%20best%20by%20building%20things.&descAlignY=60&descAlign=60&descSize=30&section=header&animation=twinkling&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Hi,%20i'm%20Julian.&desc=I%20learn%20best%20by%20building%20things.&descAlignY=60&descAlign=50&descSize=30&section=header&animation=twinkling&fontAlignY=40)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF00DFFF&center=true&vCenter=true&width=600&lines=Software+Development+Apprentice;Java+%7C+Web+%7C+SQL+%7C+AI+Explorer;Building+cool+things+step+by+step)](https://git.io/typing-svg)
 
