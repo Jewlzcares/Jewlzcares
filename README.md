@@ -2,13 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Hi,%20i'm%20Julian.&desc=I%20learn%20best%20by%20building%20things.&descAlignY=60&descAlign=50&descSize=30&section=header&animation=twinkling&fontAlignY=40)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF00DFFF&center=true&vCenter=true&width=600&lines=Software+Development+Apprentice;Java+%7C+Web+%7C+SQL+%7C+AI+Explorer;Building+cool+things+step+by+step)](https://git.io/typing-svg)
-
 <p align="center">
   <img height="150" alt="242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e" src="https://github.com/user-attachments/assets/3fae9f88-bf1d-4039-a1f8-7ece9532392f" />
   <img height="150" src="https://streak-stats.demolab.com?user=Jewlzcares&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=150"/>
   <img height="150" src="https://github.com/user-attachments/assets/c7057d9b-66fc-4a7d-bf43-5029db844915"/>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF00DFFF&center=true&vCenter=true&width=600&lines=Software+Development+Apprentice;Java+%7C+Web+%7C+SQL+%7C+AI+Explorer;Building+cool+things+step+by+step)](https://git.io/typing-svg)
 
 ---
 
