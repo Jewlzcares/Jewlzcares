@@ -47,11 +47,26 @@ Web-based application for creating structured learning paths, tracking training 
 
 * **Tech stack:** HTML, CSS, JavaScript, JSON.
 
----
-
 ### **PROJECTS BUILT FOR LEARNING AND EXPERIMENTATION PURPOSES**
 
 **Memory Game (C#) | Caesar Cipher Tool | Time Converter | Trading Client | Stock Manager | Various small practice projects**
+
+---
+
+<div align="center">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img src="URL_1" width="300"/>
+  <img src="URL_2" width="300"/>
+  <img src="URL_3" width="300"/>
+  <img src="URL_4" width="300"/>
+  <img src="URL_4" width="300"/>
+  <img src="URL_4" width="300"/>
+
+</div>
+
+</div>
 
 ---
 <!--
