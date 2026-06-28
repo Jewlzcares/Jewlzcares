@@ -1,10 +1,10 @@
 <div align=center>
   
 <!-- HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Jewlzcares&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=Hi,%20%i'm%20Jewlzcares&section=header&reversal=false&fontAlign=50&animation=twinkling&descAlign=50&descAlignY=50)
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Development+Apprentice;Java+%7C+Web+%7C+SQL+%7C+AI+Explorer;Building+cool+things+step+by+step)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF00DFFF&center=true&vCenter=true&width=600&lines=Software+Development+Apprentice;Java+%7C+Web+%7C+SQL+%7C+AI+Explorer;Building+cool+things+step+by+step)](https://git.io/typing-svg)
 
 </div>
 
