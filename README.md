@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF00DFFF&center=true&vCenter=true&width=600&lines=Software+Development+Apprentice;Java+%7C+Web+%7C+SQL+%7C+AI+Explorer;Building+cool+things+step+by+step)](https://git.io/typing-svg)
 
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jewlzcares&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=150)](https://git.io/streak-stats)
+
 </div>
 
 ---
@@ -28,31 +32,35 @@ I enjoy building practical applications, learning new technologies, and improvin
 - 🗄 SQL & Databases  
 - 🤖 AI Exploration  
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jewlzcares&theme=react&bg_color=0d1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jewlzcares&theme=react&bg_color=0d1117&hide_border=true&area=true&custom_title=Recent%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### Featured Projects
+### What I'm Working On
 
 #### 🏋️ Ironforge – Smart Fitness Tracker
-Java-based application for workout tracking, progress monitoring and fitness logging.
+Java-based fitness tracking application for logging workouts, managing training sessions, and tracking progress over time.
+
+* **Tech stack:** Java, JavaFX, SQLite, JDBC, Maven (build automation and dependency management).
 
 #### 🎓 EducationParcours – Web Application
-Web platform for structured learning paths and training progress tracking.
+Web-based application for creating structured learning paths, tracking training progress, and organizing educational content in a guided learning flow.
+
+* **Tech stack:** HTML, CSS, JavaScript, JSON.
 
 ---
 
-### Other Projects
+### Projects built for learning and experimentation purposes.
 
 - Memory Game (C#)  
 - Caesar Cipher Tool  
 - Time Converter  
 - Trading Client (experimental)  
 - Stock Manager  
-- Various small utility projects  
+- Various small practice projects  
 
 ---
-
+<!--
 <div align="center">
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jewlzcares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -62,7 +70,7 @@ Web platform for structured learning paths and training progress tracking.
 </div>
 
 ---
-
+-->
 ### Currently Learning
 
 - Advanced Java & architecture concepts  
