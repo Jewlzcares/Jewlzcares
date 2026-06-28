@@ -22,7 +22,7 @@
 
 ---
 
-### Software Development Apprentice | Based in Germany 🇩🇪 
+### Software Development Apprentice | Based in Berlin, Germany 🇩🇪 
 
 I enjoy building practical applications, learning new technologies, and improving my skills step by step.
 
