@@ -22,11 +22,12 @@
 
 ---
 
-### Software Development Apprentice | Berlin, Germany 🇩🇪 
+### **SOFTWARE DEVELOPMENT APPRENTICE | BERLIN, GERMANY 🇩🇪**
+
 
 I enjoy building practical applications, learning new technologies, and improving my skills step by step.
 
-Java Development | Web Applications (HTML, CSS, JavaScript) | SQL & Databases | AI Exploration
+**JAVA DEVELOPMENT | WEB APPLICATIONS (HTML, CSS, JavaScript) | SQL & DATABASES | AI EXPLORATION**
 
 </div>
 
@@ -34,7 +35,7 @@ Java Development | Web Applications (HTML, CSS, JavaScript) | SQL & Databases | 
 
 ---
 
-### What I'm Working On
+### **WHAT I'M WORKING ON**
 
 #### 🏋️ Ironforge – Smart Fitness Tracker
 Java-based fitness tracking application for logging workouts, managing training sessions, and tracking progress over time.
@@ -48,14 +49,9 @@ Web-based application for creating structured learning paths, tracking training 
 
 ---
 
-### Projects built for learning and experimentation purposes.
+### **PROJECTS BUILT FOR LEARNING AND EXPERIMENTATION PURPOSES**
 
-- Memory Game (C#)  
-- Caesar Cipher Tool  
-- Time Converter  
-- Trading Client (experimental)  
-- Stock Manager  
-- Various small practice projects  
+**Memory Game (C#) | Caesar Cipher Tool | Time Converter | Trading Client | Stock Manager | Various small practice projects**
 
 ---
 <!--
@@ -80,10 +76,12 @@ Web-based application for creating structured learning paths, tracking training 
 
 <div align="center">
   
-### What I’m learning
+### **WHAT I’M LEARNING**
+
 <img height="150" src="https://github.com/user-attachments/assets/b3156083-5c50-47f0-aa3e-9d0829b1b5fa"/>
 
-Advanced Java & architecture concepts | Web development | Database design & optimization | AI fundamentals 
+**ADVANCED JAVA & ARCHITECTURE CONCEPTS | WEB DEVELOPMENT | DATABASE DESIGN & OPTIMIZATION | AI FUNDAMENTALS**
+
 
 <p align="center">
   <img width="auto" height="80" alt="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" src="https://github.com/user-attachments/assets/5513ce07-70d6-463f-b000-4996a576ba34" />
