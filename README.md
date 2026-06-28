@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Hi,%20i'm%20Julian.&desc=I%20learn%20best%20by%20building%20things.&descAlignY=60&descAlign=50&descSize=30&section=header&animation=twinkling&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Hi,%20i'm%20Julian.&desc=Building%20things%20is%20how%20I%20understand%20them.&descAlignY=60&descAlign=50&descSize=30&section=header&animation=twinkling&fontAlignY=40)
 
 <p align="center">
   <img height="150" alt="242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e" src="https://github.com/user-attachments/assets/3fae9f88-bf1d-4039-a1f8-7ece9532392f" />
