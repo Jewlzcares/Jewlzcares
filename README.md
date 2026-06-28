@@ -42,6 +42,18 @@ Java-based fitness tracking application for logging workouts, managing training 
 
 * **Tech stack:** Java, JavaFX, SQLite, JDBC, Maven (build automation and dependency management).
 
+<div align="center">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img height="150" alt="Screenshot 2026-06-29 013032" src="https://github.com/user-attachments/assets/a8970877-0d7f-4d96-aa89-7ff2f2be3e52" />
+  <img height="150" alt="Screenshot 2026-06-29 013009" src="https://github.com/user-attachments/assets/1c621378-71ed-49e1-934f-18e07f1cd294" />
+  <img height="150" alt="Screenshot 2026-06-29 012833" src="https://github.com/user-attachments/assets/4f434c5e-2e96-4f34-aba9-37d0cae8e97f" />
+
+</div>
+
+</div>
+
 #### 🎓 EducationParcours – Web Application
 Web-based application for creating structured learning paths, tracking training progress, and organizing educational content in a guided learning flow.
 
@@ -51,24 +63,7 @@ Web-based application for creating structured learning paths, tracking training 
 
 **Memory Game (C#) | Caesar Cipher Tool | Time Converter | Trading Client | Stock Manager | Various small practice projects**
 
----
 
-<div align="center">
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <img src="URL_1" width="300"/>
-  <img src="URL_2" width="300"/>
-  <img src="URL_3" width="300"/>
-  <img src="URL_4" width="300"/>
-  <img src="URL_4" width="300"/>
-  <img src="URL_4" width="300"/>
-
-</div>
-
-</div>
-
----
 <!--
 <div align="center">
 
@@ -81,8 +76,10 @@ Web-based application for creating structured learning paths, tracking training 
 ---
 -->
 
-<div align="center">
+---
 
+<div align="center">
+  
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 </div>
