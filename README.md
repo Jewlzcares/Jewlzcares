@@ -96,11 +96,11 @@ Web-based application for creating structured learning paths, tracking training 
 
 
 <p align="center">
-  <img width="auto" height="80" alt="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" src="https://github.com/user-attachments/assets/5513ce07-70d6-463f-b000-4996a576ba34" />
-  <img width="auto" height="80" alt="gipadsy" src="https://github.com/user-attachments/assets/a2babbab-71ba-47fc-827a-d28c616b5c82" />
-  <img width="auto" height="80" alt="qgiphy" src="https://github.com/user-attachments/assets/147291bd-c192-4c63-921a-fafbd4e68eba" />
-  <img width="auto" height="80" alt="giphy" src="https://github.com/user-attachments/assets/1a75f744-708b-44ac-a04e-ff93364e3770" />
-  <img width="auto" height="80" alt="giphsy" src="https://github.com/user-attachments/assets/fa8be114-e758-4fe9-9d5d-83e4c8c5eedc" />
+  <img width="auto" height="90" alt="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" src="https://github.com/user-attachments/assets/5513ce07-70d6-463f-b000-4996a576ba34" />
+  <img width="auto" height="90" alt="gipadsy" src="https://github.com/user-attachments/assets/a2babbab-71ba-47fc-827a-d28c616b5c82" />
+  <img width="auto" height="90" alt="qgiphy" src="https://github.com/user-attachments/assets/147291bd-c192-4c63-921a-fafbd4e68eba" />
+  <img width="auto" height="90" alt="giphy" src="https://github.com/user-attachments/assets/1a75f744-708b-44ac-a04e-ff93364e3770" />
+  <img width="auto" height="90" alt="giphsy" src="https://github.com/user-attachments/assets/fa8be114-e758-4fe9-9d5d-83e4c8c5eedc" />
 </p>
 
 </div>
