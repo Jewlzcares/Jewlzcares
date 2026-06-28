@@ -12,8 +12,6 @@
   <img height="150" src="https://github.com/user-attachments/assets/c7057d9b-66fc-4a7d-bf43-5029db844915"/>
 </p>
 
-</div>
-
 ---
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,15 +24,13 @@
 
 ---
 
-### Software Development Apprentice (Application Development) | Based in Germany 🇩🇪  
+### Software Development Apprentice | Based in Germany 🇩🇪 
 
 I enjoy building practical applications, learning new technologies, and improving my skills step by step.
 
-#### 🔍 Focus Areas
-- ☕ Java Development  
-- 🌐 Web Applications (HTML, CSS, JavaScript)  
-- 🗄 SQL & Databases  
-- 🤖 AI Exploration  
+Java Development | Web Applications (HTML, CSS, JavaScript) | SQL & Databases | AI Exploration
+
+</div>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jewlzcares&theme=react&bg_color=0d1117&hide_border=true&area=true&custom_title=Recent%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -94,11 +90,11 @@ Advanced Java & architecture concepts | Web development | Database design & opti
 ---
 
 <p align="center">
-  <img width="auto" height="100" alt="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" src="https://github.com/user-attachments/assets/5513ce07-70d6-463f-b000-4996a576ba34" />
-  <img width="auto" height="100" alt="gipadsy" src="https://github.com/user-attachments/assets/a2babbab-71ba-47fc-827a-d28c616b5c82" />
-  <img width="auto" height="100" alt="qgiphy" src="https://github.com/user-attachments/assets/147291bd-c192-4c63-921a-fafbd4e68eba" />
-  <img width="auto" height="100" alt="giphy" src="https://github.com/user-attachments/assets/1a75f744-708b-44ac-a04e-ff93364e3770" />
-  <img width="auto" height="100" alt="giphsy" src="https://github.com/user-attachments/assets/fa8be114-e758-4fe9-9d5d-83e4c8c5eedc" />
+  <img width="auto" height="80" alt="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" src="https://github.com/user-attachments/assets/5513ce07-70d6-463f-b000-4996a576ba34" />
+  <img width="auto" height="80" alt="gipadsy" src="https://github.com/user-attachments/assets/a2babbab-71ba-47fc-827a-d28c616b5c82" />
+  <img width="auto" height="80" alt="qgiphy" src="https://github.com/user-attachments/assets/147291bd-c192-4c63-921a-fafbd4e68eba" />
+  <img width="auto" height="80" alt="giphy" src="https://github.com/user-attachments/assets/1a75f744-708b-44ac-a04e-ff93364e3770" />
+  <img width="auto" height="80" alt="giphsy" src="https://github.com/user-attachments/assets/fa8be114-e758-4fe9-9d5d-83e4c8c5eedc" />
 </p>
 
 </div>
