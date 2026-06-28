@@ -1,12 +1,16 @@
 <div align=center>
-  
+
 ![header](https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Hi,%20i'm%20Jewlzcares.&desc=I%20learn%20best%20by%20building%20things.&descAlignY=60&descAlign=60&descSize=30&section=header&animation=twinkling&fontAlignY=40)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF00DFFF&center=true&vCenter=true&width=600&lines=Software+Development+Apprentice;Java+%7C+Web+%7C+SQL+%7C+AI+Explorer;Building+cool+things+step+by+step)](https://git.io/typing-svg)
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jewlzcares&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=150)](https://git.io/streak-stats)
+<p align="center">
+  <img height="150" alt="242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e" src="https://github.com/user-attachments/assets/3fae9f88-bf1d-4039-a1f8-7ece9532392f" />
+  <img height="150" src="https://streak-stats.demolab.com?user=Jewlzcares&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=150"/>
+  <img height="150" src="https://github.com/user-attachments/assets/c7057d9b-66fc-4a7d-bf43-5029db844915"/>
+</p>
 
 </div>
 
@@ -71,13 +75,27 @@ Web-based application for creating structured learning paths, tracking training 
 
 ---
 -->
-### Currently Learning
 
-- Advanced Java & architecture concepts  
-- Web development (modern practices)  
-- Database design & optimization  
-- AI fundamentals & experimentation  
+<div align="center">
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+### Currently Learning
+<img height="150" src="https://github.com/user-attachments/assets/b3156083-5c50-47f0-aa3e-9d0829b1b5fa"/>
+
+Advanced Java & architecture concepts | Web development | Database design & optimization | AI fundamentals 
+
+---
+
+<p align="center">
+  <img width="auto" height="250" alt="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" src="https://github.com/user-attachments/assets/5513ce07-70d6-463f-b000-4996a576ba34" />
+  <img width="auto" height="250" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/cc6f811e-97d3-4a00-bbd5-90990b99ac1e" />
+</p>
+
+</div>
