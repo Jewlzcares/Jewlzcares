@@ -30,7 +30,7 @@ Java Development | Web Applications (HTML, CSS, JavaScript) | SQL & Databases | 
 
 </div>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jewlzcares&theme=react&bg_color=0d1117&hide_border=true&area=true&custom_title=Recent%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jewlzcares&theme=react&bg_color=0d1117&hide_border=true&area=true&custom_title=Recent%20Activity)
 
 ---
 
