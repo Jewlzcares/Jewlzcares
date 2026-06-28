@@ -28,7 +28,7 @@ I enjoy building practical applications, learning new technologies, and improvin
 - 🗄 SQL & Databases  
 - 🤖 AI Exploration  
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jewlzcares&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jewlzcares&theme=react&bg_color=0d1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -55,9 +55,9 @@ Web platform for structured learning paths and training progress tracking.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jewlzcares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jewlzcares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jewlzcares&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jewlzcares&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </div>
 
