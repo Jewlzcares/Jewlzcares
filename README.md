@@ -80,7 +80,7 @@ Web-based application for creating structured learning paths, tracking training 
 
 <div align="center">
   
-### Currently Learning
+### What I’m learning
 <img height="150" src="https://github.com/user-attachments/assets/b3156083-5c50-47f0-aa3e-9d0829b1b5fa"/>
 
 Advanced Java & architecture concepts | Web development | Database design & optimization | AI fundamentals 
