@@ -12,6 +12,8 @@
 
 ---
 
+![My Skills](https://skillicons.dev/icons?i=windows,,idea,webstorm,pycharm,,java,sqlite,js,html,css,bootstrap,php,cs)
+<!--
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,6 +21,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+-->
 
 ---
 
@@ -92,7 +95,7 @@ Web-based application for creating structured learning paths, tracking training 
 
 <img height="150" src="https://github.com/user-attachments/assets/b3156083-5c50-47f0-aa3e-9d0829b1b5fa"/>
 
-**ADVANCED JAVA & ARCHITECTURE CONCEPTS | WEB DEVELOPMENT | DATABASE DESIGN & OPTIMIZATION | AI FUNDAMENTALS**
+**ADVANCED JAVA CONCEPTS | WEB DEVELOPMENT | AI FUNDAMENTALS | PYTHON | CLI**
 
 
 <p align="center">
