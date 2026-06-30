@@ -64,7 +64,20 @@ Web-based application for creating structured learning paths, tracking training 
 
 ### **PROJECTS BUILT FOR LEARNING AND EXPERIMENTATION PURPOSES**
 
-**Memory Game (C#) | Caesar Cipher Tool | Time Converter | Trading Client | Stock Manager | Various small practice projects**
+**Memory Game | Shortcut of the day | Caesar Cipher Tool | Time Converter | Trading Client | Stock Manager | Various small practice projects**
+
+<div align="center">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img height="100" alt="Bildschirmaufnahme 2026-06-30 213017" src="https://github.com/user-attachments/assets/bdea16c6-b249-47c4-aee7-f124bb26cec8" />
+  <img height="100" alt="Screenshot 2026-06-30 212409" src="https://github.com/user-attachments/assets/78b5cb70-ea92-49a6-8733-a53b41750839" />
+  <img height="100" alt="Screenshot 2026-06-30 212621" src="https://github.com/user-attachments/assets/4b1737f3-a97d-44aa-9f50-12f1b6962db2" />
+  <img height="100" alt="Bildschirmaufnahme 2026-06-30 215053" src="https://github.com/user-attachments/assets/2afbbf4f-057b-488f-889c-00ec608f8acc" />
+
+</div>
+
+</div>
 
 
 <!--
