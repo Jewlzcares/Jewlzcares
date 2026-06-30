@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&customColorList=6,12,21,22,24,25,27,30&text=Hi,%20i'm%20Julian.&desc=Building%20things%20is%20how%20I%20understand%20them.&descAlignY=60&descAlign=50&descSize=30&section=header&animation=twinkling&fontAlignY=40)
 
-<p align="center">
+<p>
   <img height="150" src="https://github.com/user-attachments/assets/3fae9f88-bf1d-4039-a1f8-7ece9532392f" />
   <img height="150" src="https://streak-stats.demolab.com?user=Jewlzcares&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=150"/>
   <img height="150" src="https://github.com/user-attachments/assets/c7057d9b-66fc-4a7d-bf43-5029db844915"/>
@@ -70,39 +70,25 @@ Memory Game | Shortcut Of The Day | Caesar Cipher Tool | Trading Client | Stock 
 
 </div>
 
-</div>
-
 <!--
-<div align="center">
-
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jewlzcares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jewlzcares&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
-
-</div>
-
----
 -->
 
 ---
 
-<div align="center">
-  
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
-<div align="center">
-  
 ### **WHAT I’M LEARNING**
 
 <img height="150" src="https://github.com/user-attachments/assets/b3156083-5c50-47f0-aa3e-9d0829b1b5fa"/>
 
 **ADVANCED JAVA CONCEPTS | WEB DEVELOPMENT | AI FUNDAMENTALS | PYTHON | CLI**
 
-<p align="center">
+<p>
   <img width="auto" height="90" src="https://github.com/user-attachments/assets/5513ce07-70d6-463f-b000-4996a576ba34" />
   <img width="auto" height="90" src="https://github.com/user-attachments/assets/a2babbab-71ba-47fc-827a-d28c616b5c82" />
   <img width="auto" height="90" src="https://github.com/user-attachments/assets/147291bd-c192-4c63-921a-fafbd4e68eba" />
