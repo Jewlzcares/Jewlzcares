@@ -31,8 +31,6 @@ I enjoy building practical applications, learning new technologies, and improvin
 
 **JAVA DEVELOPMENT | WEB APPLICATIONS (HTML, CSS, JavaScript) | SQL & DATABASES | AI EXPLORATION**
 
-</div>
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jewlzcares&theme=react&bg_color=0d1117&hide_border=true&area=true&custom_title=Recent%20Activity)
 
 ---
@@ -42,9 +40,8 @@ I enjoy building practical applications, learning new technologies, and improvin
 #### 🏋️ Ironforge – Smart Fitness Tracker
 Java-based fitness tracking application for logging workouts, managing training sessions, and tracking progress over time.
 
-* **Tech stack:** Java, JavaFX, SQLite, JDBC, Maven (build automation and dependency management).
+**Tech stack:** Java, JavaFX, SQLite, JDBC, Maven (build automation and dependency management).
 
-<div align="center">
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <img height="150" src="https://github.com/user-attachments/assets/a8970877-0d7f-4d96-aa89-7ff2f2be3e52" />
@@ -52,20 +49,17 @@ Java-based fitness tracking application for logging workouts, managing training 
   <img height="150" src="https://github.com/user-attachments/assets/4f434c5e-2e96-4f34-aba9-37d0cae8e97f" />
 
 </div>
-</div>
 
 #### 🎓 EducationParcours – Web Application
 Web-based application for creating structured learning paths, tracking training progress, and organizing educational content in a guided learning flow.
 
-* **Tech stack:** HTML, CSS, JavaScript, JSON.
+**Tech stack:** HTML, CSS, JavaScript, JSON.
 
 ---
 
-<div align="center">
-
 ### **PROJECTS BUILT FOR LEARNING AND EXPERIMENTATION PURPOSES**
 
-**Memory Game | Shortcut Of The Day | Caesar Cipher Tool | Trading Client | Stock Manager | Various small practice projects**
+Memory Game | Shortcut Of The Day | Caesar Cipher Tool | Trading Client | Stock Manager | Various small practice projects
   
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
@@ -75,6 +69,7 @@ Web-based application for creating structured learning paths, tracking training 
   <img height="100" src="https://github.com/user-attachments/assets/7e23e826-f6f4-4922-ae00-37ba88542895" />
 
 </div>
+
 </div>
 
 <!--
