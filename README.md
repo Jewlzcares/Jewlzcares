@@ -27,7 +27,6 @@
 
 ### **SOFTWARE DEVELOPMENT APPRENTICE | BERLIN, GERMANY 🇩🇪**
 
-
 I enjoy building practical applications, learning new technologies, and improving my skills step by step.
 
 **JAVA DEVELOPMENT | WEB APPLICATIONS (HTML, CSS, JavaScript) | SQL & DATABASES | AI EXPLORATION**
@@ -46,7 +45,6 @@ Java-based fitness tracking application for logging workouts, managing training 
 * **Tech stack:** Java, JavaFX, SQLite, JDBC, Maven (build automation and dependency management).
 
 <div align="center">
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <img height="150" src="https://github.com/user-attachments/assets/a8970877-0d7f-4d96-aa89-7ff2f2be3e52" />
@@ -54,7 +52,6 @@ Java-based fitness tracking application for logging workouts, managing training 
   <img height="150" src="https://github.com/user-attachments/assets/4f434c5e-2e96-4f34-aba9-37d0cae8e97f" />
 
 </div>
-
 </div>
 
 #### 🎓 EducationParcours – Web Application
@@ -62,12 +59,14 @@ Web-based application for creating structured learning paths, tracking training 
 
 * **Tech stack:** HTML, CSS, JavaScript, JSON.
 
-### **PROJECTS BUILT FOR LEARNING AND EXPERIMENTATION PURPOSES**
-
-**Memory Game | Shortcut of the day | Caesar Cipher Tool | Time Converter | Trading Client | Stock Manager | Various small practice projects**
+---
 
 <div align="center">
 
+### **PROJECTS BUILT FOR LEARNING AND EXPERIMENTATION PURPOSES**
+
+**Memory Game | Shortcut Of The Day | Caesar Cipher Tool | Trading Client | Stock Manager | Various small practice projects**
+  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <img height="100" src="https://github.com/user-attachments/assets/bdea16c6-b249-47c4-aee7-f124bb26cec8" />
@@ -76,9 +75,7 @@ Web-based application for creating structured learning paths, tracking training 
   <img height="100" src="https://github.com/user-attachments/assets/7e23e826-f6f4-4922-ae00-37ba88542895" />
 
 </div>
-
 </div>
-
 
 <!--
 <div align="center">
@@ -109,7 +106,6 @@ Web-based application for creating structured learning paths, tracking training 
 <img height="150" src="https://github.com/user-attachments/assets/b3156083-5c50-47f0-aa3e-9d0829b1b5fa"/>
 
 **ADVANCED JAVA CONCEPTS | WEB DEVELOPMENT | AI FUNDAMENTALS | PYTHON | CLI**
-
 
 <p align="center">
   <img width="auto" height="90" src="https://github.com/user-attachments/assets/5513ce07-70d6-463f-b000-4996a576ba34" />
