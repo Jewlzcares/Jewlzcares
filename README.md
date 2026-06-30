@@ -51,7 +51,7 @@ Java-based fitness tracking application for logging workouts, managing training 
 </div>
 
 #### 🎓 EducationParcours – Web Application
-Web-based application for creating structured learning paths, tracking training progress, and organizing educational content in a guided learning flow.
+CMS-driven web application for delivering interactive learning modules, guiding learners through structured educational content, and tracking progress in a dynamic learning flow.
 
 **Tech stack:** HTML, CSS, JavaScript, JSON.
 
